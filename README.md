@@ -1,4 +1,7 @@
 # CCAssignment
+Jing Yu 
+
+Andrew ID: jingyu 
 
 1. Give different solutions 
 2. Improve my solution 
