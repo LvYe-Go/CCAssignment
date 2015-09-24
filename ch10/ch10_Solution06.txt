@@ -1,0 +1,10 @@
+ch10 Solution06 
+Q: Sort a Big file about 20G with one string per line.
+
+Answer: 
+We use external sort. Because the file is 20 G large that we cannot put them in memory.
+To speed the sort, we could divide the file into chunks , such as Y megabytes. Y is the amount of memory 
+available. Then we sorting them respectively, and save them back into the file system.
+
+When all chunks are sorted, we merge these sorted chunks one by one and we can get the fully sorted file.
+
