@@ -1,0 +1,15 @@
+Jugs of Water:
+
+Q = Quart  here
+big one = 5Q jug
+small one = 3Q jug
+
+
+(1) Pull over to full into big one .
+(2) Pull over from big one into small one becomes full (use 3Q), and 2Q left in big one.
+(3) Empty the small one.
+(4) Pull over the left 2Q from big one into small one. So big one is empty and small one has 2Q left. 
+(4) Make big one full.
+(5) Pull 1Q into small on still small one is full. Then this time 4Q is left in the big one 
+
+Made it!  

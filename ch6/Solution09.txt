@@ -1,0 +1,12 @@
+100 Lockers:
+We give the number of locker from 1 to 100.
+
+The left locker num should have been been toggled for odd times. 
+That means the num should have odd number of factors. 
+From knowledge of math that we know the square number like 
+
+36 = (1 * 36) = (4 * 9) = (2 * 18) = (3 * 12) = （6 * 6） have odd pairs. 
+
+So, there are 10 sqaure number in range from 1 to 100.
+
+There are 10 lockers are open.

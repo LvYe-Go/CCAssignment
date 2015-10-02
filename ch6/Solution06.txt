@@ -1,0 +1,11 @@
+Blue-Eyes:
+
+We can think form the basic situation.
+We assume n of them are blue-eyed. 
+
+(1) n  = 1, if the man see nobody is left, and there are at least on blue eye. 
+the wise man must know it it himself is blue-eyed.
+
+(2) n = 2, we assume they are A and B.  A knows B , B knows bu they are not sure it is 1 or 2 blue-eyed. If there is only one blue-eyed, A thinks B should leave, B think A should leave, so they will not take action in the first day. In the second day they know each other is still there, so there are 2 blue-eyed people and A know itself, B know itself should leave. 
+
+(3)n = 3, A, B, C know there are 2 or 3 blue-eyed, and after two days, no one leaves, they all know themselves are blue-eyed, So they will leave in the third day.  So, if there are N blue-eyed people in the island, it will take them N days to leave. 

@@ -1,0 +1,16 @@
+The Apocalypse:
+
+We indicates B as boy, G as girl 
+
+We can think from the basic cases:
+(1) The first one is G: 1/2; The boys number * prob =  0.
+(2) BG : Prob : (1/2)^2  = 1/4 , boy number * prob : 1/4
+(3) BBG : Prob : (1/2)^3  = 1/8 , boy number * prob: 2/8
+(4) BBBG : Prob : (1/2)^4  = 1/16 , boy number * prob: 3/16
+And so on, then the total ratio G/B should be :
+
+Ratio = (Sum of (i / (2^i)) (0 < i < infinity))
+
+From the Math limitation , the  ratio is 1, 50% girls, 50% boys. 
+
+The simulation is in the code ch6-Solution07.java

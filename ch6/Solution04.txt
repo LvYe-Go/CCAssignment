@@ -1,0 +1,17 @@
+sAnts:
+
+(1) We can consider the possibility that they will not have collision. 
+    The first ant can pick whichever direction but the rest of two ant must be the same direction of the first one. So, #2 ant ,and #3 ant have two directions to choose respectively. So there are (1/2) * (1/2) possibility that they can stay harmony. 
+
+    So the collision happens possibility is : 
+            1 -  (1/2)* (1/2) = 3/4;
+
+
+
+(2) Follow Up:  If have n ants and n-vertex polygon.
+    Same method,  thinking from not conflicts. 
+    #1 can choose whatever direction, the following n-1 ants must the same direction as the first one. 
+    There are (1/2) ^ (n-1) possibility without collision. 
+    And the collision possibility is :
+             1 - (1/2) ^ (n-1);
+

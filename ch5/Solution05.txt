@@ -1,0 +1,7 @@
+ch5- Solution05
+
+Answer: 
+n & (n - 1) == 0 means that n & no1 do not share any common 1s
+The following p bits will be flip of each other. So that means from p position,  the following are all zeros, becasue in that case, the following of (n - 1) could be all ones. 
+For example: 1000 => 0111  1000 & 0111 == 0 
+So, the n & (n -1) == 0 is to check whether n is a power of 2.  

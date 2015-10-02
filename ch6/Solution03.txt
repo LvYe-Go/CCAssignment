@@ -1,0 +1,3 @@
+Dominos:
+We can observe from high level to the part. 
+Each dominos will always cover one black and white square. So int the rest (64 - 2) squares, we can need 31 blacks and 31 white to be covered totally by 31 dominos. But now, after we counting int rest 62 squares' color, it has 30 black and 32 white. So, it cannot be covered by 31 dominos.
